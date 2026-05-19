@@ -2,7 +2,6 @@ import numpy as np
 from PIL import Image
 import os
 
-
 # ─────────────────────────────────────────────
 # BAGIAN 1: ENCODE — Menyisipkan watermark
 # ─────────────────────────────────────────────
