@@ -3,14 +3,12 @@
 ## 📁 Struktur Proyek
 
 ```
-watermarking/
-├── face.jpg                    # Gambar input (foto wajah)
-├── lsb/
-│   ├── lsb_watermark.py        # Implementasi LSB lengkap
-│   └── results/                # Output kompresi JPEG tiap QF
-├── dct/
-│   ├── dct_watermark.py        # Implementasi DCT lengkap
-│   └── results/                # Output kompresi JPEG tiap QF
+Watermarking-Invisible/
+├── Face.jpg                    # Gambar input (foto wajah)
+├── LSB/
+│   ├── LSB_Watermark.py        # Implementasi LSB lengkap
+├── DCT/
+│   ├── DCT_Watermark.py        # Implementasi DCT lengkap
 └── README.md
 ```
 
